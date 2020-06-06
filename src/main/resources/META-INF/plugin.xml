@@ -1,0 +1,12 @@
+<idea-plugin>
+    <id>dev.turingcomplete.intellij-allicons-plugin</id>
+    <name>Allicons</name>
+    <vendor email="dev@marcelkliemannel.com" url="https://github.com/marcelkliemannel">Marcel Kliemannel</vendor>
+
+    <description></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <actions>
+    </actions>
+</idea-plugin>
